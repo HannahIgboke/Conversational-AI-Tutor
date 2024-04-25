@@ -12,7 +12,7 @@ Create a Conversational AI Data Science Tutor tasked to discuss only data relate
 The application has a clean and intuitive user interface built using Streamlit that allows users to be able to easily input their questions.
 
 # App Functionality
-- Utilized the Gemini API for code review functionality.
+- Utilized the Gemini API for GenAI tasks.
 - The application answers only data science related topics and questions.
 - Provides clear and straightforward clarifications and answers to questions.
 - When queried on topics outside data science, kindly reminds the user of its core area - data science.
